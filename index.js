@@ -5,6 +5,7 @@ function encriptar(){
     let texto = document.getElementById("texto").value;
     let titulo = document.getElementById("titulo"); 
     let parrafo = document.getElementById("parrafo-encriptado"); 
+    
     let muneco = document.getElementById("muneco");
     
 
