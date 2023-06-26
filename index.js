@@ -43,7 +43,6 @@ function desencriptar() {
     let titulo = document.getElementById("titulo"); 
     let parrafo = document.getElementById("parrafo-encriptado"); 
     let muneco = document.getElementById("muneco");
-    
     let textoCifrado = texto
 
     .replace(/enter/gi, "e")
